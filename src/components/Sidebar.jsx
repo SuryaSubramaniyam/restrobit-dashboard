@@ -326,7 +326,7 @@ export default function Sidebar({ active = "Pos" }) {
         />
         <div>
           <div className="text-sm font-semibold">Surya S</div>
-          <div className="text-xs text-gray-500">Web Developer</div>
+          <div className="text-xs text-gray-500">Frontend Dev-UI Dev</div>
         </div>
       </div>
 
